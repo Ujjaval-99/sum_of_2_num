@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\bin\Debug\net7.0\sum_of_2_num.exe
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\bin\Debug\net7.0\sum_of_2_num.deps.json
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\bin\Debug\net7.0\sum_of_2_num.runtimeconfig.json
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\bin\Debug\net7.0\sum_of_2_num.dll
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\bin\Debug\net7.0\sum_of_2_num.pdb
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\sum_of_2_num.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\sum_of_2_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\sum_of_2_num.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\sum_of_2_num.AssemblyInfo.cs
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\sum_of_2_num.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\sum_of_2_num.dll
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\refint\sum_of_2_num.dll
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\sum_of_2_num.pdb
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\sum_of_2_num.genruntimeconfig.cache
+C:\Users\admin\Desktop\Promact Trainning\sum_of_2_num\sum_of_2_num\obj\Debug\net7.0\ref\sum_of_2_num.dll
